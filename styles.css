@@ -1,0 +1,40 @@
+body {
+	overflow: hidden;
+}
+#wrapper {
+	width: 300px;
+	margin: auto; 
+	border: 1px solid;
+	padding: 6px;
+    box-shadow: 5px 10px #888888
+}
+
+h3 {
+	border: 1px solid;
+    padding: 3px;
+    box-shadow: 5px 10px #888888
+}
+img {
+	border: 2px black solid;
+	width: 300px;
+	height: 200px;
+	margin-bottom: 5px;
+}
+span {
+	font-weight: bold;
+}
+
+#brown {
+	color: brown;
+}
+
+#info {
+	border: 1px black dashed;
+	width: 275px;
+	padding: 5px;
+}
+
+ul {
+	list-style: none;
+	padding-left: 0px;
+} 
